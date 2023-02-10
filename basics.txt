@@ -1,0 +1,18 @@
+Binary Addition 
+
+Rules 
+A   B  A+B  Carry
+0 + 0   0     0 
+0 + 1   1     0 
+1 + 0   1     0 
+1 + 1   0     1 
+
+
+Binary Subtraction 
+
+Rules 
+A   B  A-B  Borrow
+0 - 0   0     0 
+0 - 1   1     1 
+1 - 0   1     0 
+1 - 1   0     0 
