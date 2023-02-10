@@ -16,3 +16,21 @@ A   B  A-B  Borrow
 0 - 1   1     1 
 1 - 0   1     0 
 1 - 1   0     0 
+
+
+Tricks:
+
+1. XOR 
+x ^ 0 = x 
+x ^ 1 = ~x
+x ^ x = 0 
+
+2. AND 
+x & 0 = 0
+x & 1 = x 
+x & x = x
+
+3. OR
+x | 0 = x 
+x | 1 = 1 
+x | x = x 
