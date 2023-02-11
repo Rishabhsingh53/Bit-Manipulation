@@ -6,7 +6,7 @@ print(1<<n)
 print(bin(1 << 5))
 
 # subtracting 1 from 1 << i results in a number with all bits 1
-for eg. I << 4 will result in 16  (1 0 0 0 0 ) subtracting 1 from it is 15  ( 1 1 1 1 )	
+# for eg. I << 4 will result in 16  (1 0 0 0 0 ) subtracting 1 from it is 15  ( 1 1 1 1 )	
 
 # To toggle a bit we can use XOR operation: x ^ 1 
 
