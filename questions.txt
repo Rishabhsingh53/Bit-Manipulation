@@ -1,8 +1,0 @@
-Few Questions based on basics 
-
-TRY SOLVING 
-1. 0110 + 0010
-2. 1000 - 0110
-3. 0011 * 0101
-4. 1100 >> 2 
-5. 1011 ^ (~1011)
